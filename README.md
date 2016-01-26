@@ -11,7 +11,9 @@ You'll need:
 
 ![](./img/1.jpg)
 
-Mark two slots using sticky notes. Take cards from the deck and place them in slot 1, then slot 2, and so on.
+Write two sticky notes: a 1 and a 2. We'll use as labels for the two stacks of cards.
+
+Take cards from the deck and place them under 1, then under 2, and so on.
 
 Stop placing cards once you have a matching pair (Snap!).
 
@@ -25,17 +27,19 @@ Think about how to tell the player when to keep going and when to stop.
 
 ![](./img/2.jpg)
 
-Add a third slot. Pick up all the cards, and shuffle them. Now play the game again.
+Add a new sticky note: 3. Pick up all the cards, and shuffle them.
+
+Take cards from the deck and place them under 1, then under 2, then under 3, and so on.
 
 ### Coding without coding
 
-Now update your instructions to allow for slot 3.
+Now update your instructions to allow for the third stack.
 
 ## It's gettin' kinda hectic
 
 ![](./img/3.jpg)
 
-Now add another row: you should six slots in total.
+Now add another row: you should six stacks in total.
 
 Stop when you have a match in a row, or a match in a column.
 
